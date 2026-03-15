@@ -9,6 +9,12 @@
       <td align="center">
           <a href="https://www.instagram.com/mimarulns">
           <img src="https://icon-mj.vercel.app/icon/brands/instagram?size=20" alt="Instagram" valign="middle"/>&nbsp;Instagram</td>
+      <td align="center">
+          <a href="https://www.linkedin.com/mimarulns">
+          <img src="https://icon-mj.vercel.app/icon/brands/linkedin?size=20" alt="LinkedIn" valign="middle"/>&nbsp;Linkedin</td>
+            <td align="center">
+          <a href="https://www.tiktok.com/mimarulns">
+          <img src="https://icon-mj.vercel.app/icon/brands/tiktok?size=20" alt="TikTok" valign="middle"/>&nbsp;TikTok</td>
     </tr>
   </table>
 </div>
