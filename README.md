@@ -9,12 +9,15 @@
       <td align="center">
           <a href="https://www.instagram.com/mimarulns">
           <img src="https://icon-mj.vercel.app/icon/brands/instagram?size=20" alt="Instagram" valign="middle"/>&nbsp;Instagram</td>
-      <td align="center">
-          <a href="https://www.linkedin.com/mimarulns">
-          <img src="https://icon-mj.vercel.app/icon/brands/linkedin?size=20" alt="LinkedIn" valign="middle"/>&nbsp;Linkedin</td>
             <td align="center">
           <a href="https://github.com/circle-earth">
-          <img src="https://icon-mj.vercel.app/icon/brands/github?size=20" alt="Github" valign="middle"/>&nbsp;Github</td>
+          <img src="https://icon-mj.vercel.app/icon/brands/github?size=20" alt="Github" valign="middle"/>&nbsp;Github</td>        
+      <td align="center">
+          <a href="https://bd.linkedin.com/mimarulns">
+          <img src="https://icon-mj.vercel.app/icon/brands/linkedin?size=20" alt="LinkedIn" valign="middle"/>&nbsp;Linkedin</td>
+            <td align="center">
+          <a href="https://x.com/minarulns">
+          <img src="https://icon-mj.vercel.app/icon/brands/x?size=20" alt="X" valign="middle"/>&nbsp;X</td>
             <td align="center">
           <a href="https://tiktok.com/mimarulns">
           <img src="https://icon-mj.vercel.app/icon/brands/tiktok?size=20" alt="TikTok" valign="middle"/>&nbsp;TikTok</td>
