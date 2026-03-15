@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td align="center">
-          <a href="https://www.facebook.com/ShadowLog">
+          <a href="https://m.facebook.com/ShadowLog">
           <img src="https://icon-mj.vercel.app/icon/brands/facebook?size=20" alt="Facebook" valign="middle"/>&nbsp;Facebook</td>
       <td align="center">
           <a href="https://www.instagram.com/mimarulns">
@@ -13,7 +13,10 @@
           <a href="https://www.linkedin.com/mimarulns">
           <img src="https://icon-mj.vercel.app/icon/brands/linkedin?size=20" alt="LinkedIn" valign="middle"/>&nbsp;Linkedin</td>
             <td align="center">
-          <a href="https://www.tiktok.com/mimarulns">
+          <a href="https://github.com/circle-earth">
+          <img src="https://icon-mj.vercel.app/icon/brands/github?size=20" alt="Github" valign="middle"/>&nbsp;Github</td>
+            <td align="center">
+          <a href="https://tiktok.com/mimarulns">
           <img src="https://icon-mj.vercel.app/icon/brands/tiktok?size=20" alt="TikTok" valign="middle"/>&nbsp;TikTok</td>
     </tr>
   </table>
