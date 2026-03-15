@@ -1,21 +1,18 @@
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Minarul Islam <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<div align="center">
-    <table>
+<div align="left">
+  <table>
     <tr>
-      <td width="300" align="center">
-        <p align="center">
-  <a href="আপনার_লিংকডইন_লিংক">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="আপনার_ফেসবুক_লিংক">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-    </td>
+      <td align="center">
+          <a href="https://www.facebook.com/ShadowLog">
+          <img src="https://icon-mj.vercel.app/icon/brands/facebook?size=20" alt="Facebook" valign="middle"/>&nbsp;Facebook</td>
+      <td align="center">
+          <a href="https://www.instagram.com/mimarulns">
+          <img src="https://icon-mj.vercel.app/icon/brands/instagram?size=20" alt="Instagram" valign="middle"/>&nbsp;Instagram</td>
     </tr>
   </table>
 </div>
+
 
   
 ---
